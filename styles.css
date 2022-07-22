@@ -45,12 +45,12 @@ nav ul li a:hover{
     color: red;
 }
 
-.detel{
+.detail{
     margin-left: 8%;
     margin-top: 8%;
 }
 
-.detel h1{
+.detail h1{
     font-size: 50px;
     color: #212121;
     margin-bottom: 10px;
@@ -61,12 +61,12 @@ span{
     
 }
 
-.detel p{
+.detail p{
     color: #555;
     line-height: 22px;
 }
 
-.detel a{
+.detail a{
     background: #212121;
     padding: 10px 18px;
     text-decoration: none;
@@ -106,18 +106,18 @@ span{
     left: 45%;
 }
 
-.social{
+.social_media{
     margin-left: 8%;
     margin-bottom: 10px;
 }
 
-.social a{
+.social_media a{
     font-size: 30px;
     color: #212121;
     margin-right: 20px;
 }
 
-.social a:hover{
+.social_media a:hover{
     color: orange;
 }
 
